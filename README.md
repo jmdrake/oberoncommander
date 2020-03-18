@@ -1,7 +1,7 @@
 # Oberon Commander
 An extension to the Oberon System which allows for easier writing of scripting tools.
 
-Oberon is both a programming language and an operating system written by Nicholas Wirth, the inventor of Pascal and Modula-2.  Oberon's user interface is a document oriented user interface.  It falls somewhere in between a traditional command line interface like the Unix or DOS shells and GUI interfaces like Windows, Mac and X11.  Using it has the feel of Smalltalk/Squeak or ATT's Plan 9.
+Oberon is both a programming language and an operating system written by Nicholas Wirth, the inventor of Pascal and Modula-2.  Oberon's user interface is a document oriented user interface.  It falls somewhere in between a traditional command line interface like the Unix or DOS shells and GUI interfaces like Windows, Mac and X11.  Using it has the feel of Smalltalk/Squeak.
 
 Out of the box there are command tools that allow users too run commands by clicking with the middle mouse button on Module.Procedure commands, taking parameters either after the command, from currently selected text, or from a marked viewer.
 
